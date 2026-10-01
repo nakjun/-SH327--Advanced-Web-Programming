@@ -1,0 +1,13 @@
+# Dependencies and generated build output
+**/node_modules/
+**/dist/
+**/coverage/
+
+# Local environment and logs
+**/.env
+**/.env.*
+!**/.env.example
+**/*.log
+
+# Archive copies may contain dependencies and generated output
+*.zip

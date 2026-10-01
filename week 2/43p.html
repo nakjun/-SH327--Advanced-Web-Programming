@@ -1,0 +1,16 @@
+<html>
+<script>    
+    const globalValue = 10;
+    
+    function example() {
+        const localValue = 20;
+    
+        console.log(globalValue); // 접근 가능
+        console.log(localValue);  // 접근 가능
+    }
+    
+    console.log(globalValue);     // 접근 가능
+    console.log(localValue);      // Error
+</script>    
+
+</html>
