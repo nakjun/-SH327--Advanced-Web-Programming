@@ -6,6 +6,8 @@
 
 - `week 2/`: HTML 실습
 - `week 5/`: React와 JSX로 만든 학생 카드 실습
+- `week 6/`: React Timer 실습
+- `week 7/`: React Shopping Cart UI 실습
 
 ## 5주차 React 실습 실행
 
